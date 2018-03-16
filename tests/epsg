@@ -1,0 +1,8 @@
+<23700> +proj=somerc +lat_0=47.14439372222222 +lon_0=19.04857177777778 +k_0=0.99993 +x_0=650000 +y_0=200000 +ellps=GRS67 +towgs84=52.17,-71.82,-14.9,0,0,0,0 +units=m +no_defs  <>
+<29902> +proj=tmerc +lat_0=53.5 +lon_0=-8 +k=1.000035 +x_0=200000 +y_0=250000 +datum=ire65 +units=m +no_defs  <>
+<3857> +proj=merc +a=6378137 +b=6378137 +lat_ts=0.0 +lon_0=0.0 +x_0=0.0 +y_0=0 +k=1.0 +units=m +nadgrids=@null +wktext  +no_defs <>
+<4136> +proj=longlat +ellps=clrk66 +no_defs  <>
+<4210> +proj=longlat +ellps=clrk80 +towgs84=-160,-6,-302,0,0,0,0 +no_defs  <>
+<4230> +proj=longlat +ellps=intl +towgs84=-87,-98,-121,0,0,0,0 +no_defs  <>
+<4269> +proj=longlat +datum=NAD83 +no_defs  <>
+<4326> +proj=longlat +datum=WGS84 +no_defs  <>
